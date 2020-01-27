@@ -1,5 +1,5 @@
 # hello-world
 Working through the github tutorial
 
-That's about bit, really.
+That's about it, really.
 Nothing else going on in here.
